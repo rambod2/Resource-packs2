@@ -1,0 +1,16 @@
+{
+	"advancements.husbandry.freshwater.title": "Fresh Water",
+	"advancements.husbandry.freshwater.description": "Drink water directly from a source",
+	"advancements.husbandry.hydratation.title": "Hydration",
+	"advancements.husbandry.hydratation.description": "Hydrate yourself from every source possible, even if it's not good for you",
+	"advancements.husbandry.thirst.title": "Thirsty",
+	"advancements.husbandry.thirst.description": "Get the thirst effect",
+	"datapack.initialization": "initialized",
+	"datapack.uninstall": "uninstalled",
+	"datapack.settings.author": "  Author:",
+	"datapack.settings.left_handed": " Thirst bar on the left",
+	"datapack.settings.sip": " Drinking while sneaking in front of water",
+	"datapack.settings.uninstall": "  Uninstall",
+	"datapack.settings.uninstall_lock": " Uninstall locked",
+	"datapack.settings.uninstall_unlock": " Uninstall unlocked"
+} 

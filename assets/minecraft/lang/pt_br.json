@@ -1,0 +1,16 @@
+{
+	"advancements.husbandry.freshwater.title": "Água Fresca",
+	"advancements.husbandry.freshwater.description": "Beba água diretamente de uma fonte",
+	"advancements.husbandry.hydratation.title": "Hidratação",
+	"advancements.husbandry.hydratation.description": "Hidrate-se de todas as fontes possíveis, mesmo que não seja bom para você",
+	"advancements.husbandry.thirst.title": "Sedento",
+	"advancements.husbandry.thirst.description": "Obtenha o efeito de sede",
+	"datapack.initialization": "inicializado",
+	"datapack.uninstall": "desinstalado",
+	"datapack.settings.author": "  Autor:",
+	"datapack.settings.left_handed": " Barra de sede na esquerda",
+	"datapack.settings.sip": " Beber enquanto se agacha diante da água",
+	"datapack.settings.uninstall": "  Desinstalar",
+	"datapack.settings.uninstall_lock": " Desinstalação bloqueada",
+	"datapack.settings.uninstall_unlock": " Desinstalação desbloqueada"
+} 

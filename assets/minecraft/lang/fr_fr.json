@@ -1,0 +1,17 @@
+{
+	"advancements.husbandry.freshwater.title": "Eau fraîche",
+	"advancements.husbandry.freshwater.description": "Buvez de l'eau directement d'une source",
+	"advancements.husbandry.hydratation.title": "Hydratation",
+	"advancements.husbandry.hydratation.description": "Hydratez-vous à toutes les sources possibles, même si elles ne sont pas bonnes pour vous",
+	"advancements.husbandry.thirst.title": "Assoiffé",
+	"advancements.husbandry.thirst.description": "Obtenez l’effet de soif",
+	"datapack.initialization": "initialisé",
+	"datapack.uninstall": "désinstallé",
+	"datapack.settings.author": "  Auteur:",
+	"datapack.settings.description": "  Ajoute une mécanique de soif réaliste",
+	"datapack.settings.left_handed": " Barre de soif à gauche",
+	"datapack.settings.sip": " Boire en se faufilant devant l’eau",
+	"datapack.settings.uninstall": "  Désinstaller",
+	"datapack.settings.uninstall_lock": " Désinstallation verrouillée",
+	"datapack.settings.uninstall_unlock": " Désinstallation déverrouillée"
+}
