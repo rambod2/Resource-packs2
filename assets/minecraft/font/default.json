@@ -1,0 +1,200 @@
+{
+	"providers":[
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/001_full.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE000"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/002_high.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE001"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/003_midle.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE002"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/004_low.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE003"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/005_critical.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE004"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/006_empty.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE005"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/007_critical_feedback.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE006"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/008_empty_feedback.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE007"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/011_full.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE010"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/012_high.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE011"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/013_midle.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE012"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/014_low.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE013"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/015_critical.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE014"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/017_critical_feedback.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE016"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/101_full.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE100"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/102_high.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE101"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/103_midle.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE102"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/104_low.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE103"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/105_critical.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE104"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/106_empty.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE105"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/107_critical_feedback.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE106"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/108_empty_feedback.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE107"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/111_full.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE110"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/112_high.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE111"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/113_midle.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE112"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/114_low.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE113"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/115_critical.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE114"]
+	},
+	{
+	    "type": "bitmap",
+	    "file": "minecraft:font/117_critical_feedback.png",
+	    "ascent": -32,
+	    "height": 32,
+	    "chars": ["\uE116"]
+	}
+	]
+}
