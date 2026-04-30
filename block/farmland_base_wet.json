@@ -1,0 +1,65 @@
+{
+    "parent": "minecraft:block/block",
+    "textures": {
+        "dirt": "minecraft:block/dirt",
+        "top": "minecraft:block/farmland_moist"
+    },
+    "elements": [
+        {
+            "from": [
+                -0.01,
+                -16,
+                -0.01
+            ],
+            "to": [
+                16.01,
+                0.01,
+                16.01
+            ],
+            "faces": {
+                "down": {
+                    "texture": "#dirt"
+                },
+                "up": {
+                    "texture": "#top"
+                },
+                "north": {
+                    "texture": "#dirt",
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ]
+                },
+                "south": {
+                    "texture": "#dirt",
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ]
+                },
+                "west": {
+                    "texture": "#dirt",
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ]
+                },
+                "east": {
+                    "texture": "#dirt",
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ]
+                }
+            }
+        }
+    ]
+}
