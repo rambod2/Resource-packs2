@@ -1,0 +1,16 @@
+{
+	"advancements.husbandry.freshwater.title": "Frisches Wasser",
+	"advancements.husbandry.freshwater.description": "Trinke Wasser direkt aus einer Quelle",
+	"advancements.husbandry.hydratation.title": "Hydration",
+	"advancements.husbandry.hydratation.description": "Hydriere dich aus jeder möglichen Quelle, auch wenn sie nicht gut für dich ist",
+	"advancements.husbandry.thirst.title": "Durstig",
+	"advancements.husbandry.thirst.description": "Erhalte den Durst-Effekt",
+	"datapack.initialization": "initialisiert",
+	"datapack.uninstall": "deinstalliert",
+	"datapack.settings.author": "  Autor:",
+	"datapack.settings.left_handed": " Durstleiste links",
+	"datapack.settings.sip": " Trinken beim Schleichen vor Wasser",
+	"datapack.settings.uninstall": "  Deinstallieren",
+	"datapack.settings.uninstall_lock": " Deinstallation gesperrt",
+	"datapack.settings.uninstall_unlock": " Deinstallation freigegeben"
+}
