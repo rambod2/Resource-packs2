@@ -1,0 +1,56 @@
+{
+  "ambientocclusion": true,
+  "gui_light": "front",
+  "textures": {
+    "crop": "plight:block/branch",
+    "particle": "plight:block/branch"
+  },
+  "elements": [
+    {
+      "from": [
+        3.0586285902894934,
+        -10.855087634181197,
+        8.480704742600528
+      ],
+      "to": [
+        9.058628590289494,
+        -4.8550876341811975,
+        8.480704742600528
+      ],
+      "rotation": {
+        "x": 41.0,
+        "y": 283.9073385276578,
+        "z": 0.0,
+        "origin": [
+          6.058628590289493,
+          -10.855087634181197,
+          8.480704742600528
+        ],
+        "rescale": true
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#crop",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#crop",
+          "tintindex": 0
+        }
+      },
+      "shade": false
+    }
+  ]
+}
