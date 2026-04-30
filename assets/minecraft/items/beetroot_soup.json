@@ -1,0 +1,101 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "damage",
+        "normalize": true,
+        "scale": 100,
+        "entries": [
+            {
+                "threshold": 0,
+                "model": {
+                    "type": "model",
+                    "model": "item/beetroot_soup"
+                }
+            },
+            {
+                "threshold": 20,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "item/beetroot_soup"
+                        },
+                        {
+                            "type": "model",
+                            "model": "expiration:item/rot_stage1"
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 40,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "item/beetroot_soup"
+                        },
+                        {
+                            "type": "model",
+                            "model": "expiration:item/rot_stage2"
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 60,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "item/beetroot_soup"
+                        },
+                        {
+                            "type": "model",
+                            "model": "expiration:item/rot_stage3"
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 80,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "item/beetroot_soup"
+                        },
+                        {
+                            "type": "model",
+                            "model": "expiration:item/rot_stage4"
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 100,
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "item/beetroot_soup"
+                        },
+                        {
+                            "type": "model",
+                            "model": "expiration:item/rot_stage5"
+                        }
+                    ]
+                }
+            }
+        ],
+        "fallback": {
+            "type": "model",
+            "model": "item/beetroot_soup"
+        }
+    }
+}
