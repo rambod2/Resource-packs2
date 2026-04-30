@@ -1,0 +1,39 @@
+{
+    "model": {
+        "type": "minecraft:condition",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "on_true": {
+            "type": "minecraft:model",
+            "model": "plight:block/farmland_base_wet"
+        },
+        "on_false": {
+            "type": "minecraft:model",
+            "model": "plight:block/farmland_base_dry"
+        },
+        "transformation": {
+            "left_rotation": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "right_rotation": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "translation": [
+                0,
+                0,
+                0
+            ]
+        }
+    }
+}

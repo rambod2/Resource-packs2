@@ -1,0 +1,984 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:composite",
+        "models": [
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 1.0,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0029",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.9666666666666667,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0028",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.9333333333333333,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0027",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.9,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0026",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.8666666666666667,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0025",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.8333333333333334,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0024",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.8,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0023",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.7666666666666666,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0022",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.7333333333333333,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0021",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.7,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0020",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.6666666666666666,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0019",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.6333333333333333,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0018",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.6,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0017",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.5666666666666667,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0016",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.5333333333333333,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0015",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.5,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0014",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.4666666666666667,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0013",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.43333333333333335,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0012",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.4,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0011",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.36666666666666664,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0010",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.3333333333333333,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0009",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.3,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0008",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.26666666666666666,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0007",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.23333333333333334,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0006",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.2,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0005",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.16666666666666666,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0004",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.13333333333333333,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0003",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.1,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0002",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.06666666666666667,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0001",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          },
+          {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:custom_model_data",
+            "index": 0,
+            "scale": 1,
+            "entries": [
+              {
+                "threshold": 0.03333333333333333,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "plight:block/carrot_models/branch_0000",
+                  "tints": [
+                    {
+                      "type": "minecraft:custom_model_data",
+                      "index": 0,
+                      "default": 3472999
+                    }
+                  ]
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:empty"
+            }
+          }
+        ],
+        "transformation": {
+          "translation": [
+            0,
+            0,
+            0
+          ],
+          "left_rotation": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "right_rotation": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "scale": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "on_true": {
+          "type": "minecraft:range_dispatch",
+          "property": "minecraft:custom_model_data",
+          "index": 0,
+          "scale": 1,
+          "entries": [
+            {
+              "threshold": 1.0,
+              "model": {
+                "type": "minecraft:model",
+                "model": "plight:block/carrot_flowers",
+                "transformation": {
+                  "translation": [
+                    0.25,
+                    -1.1,
+                    0.25
+                  ],
+                  "scale": [
+                    0.5,
+                    1.0,
+                    0.5
+                  ],
+                  "left_rotation": [
+                    0,
+                    0,
+                    0,
+                    1
+                  ],
+                  "right_rotation": [
+                    0,
+                    0,
+                    0,
+                    1
+                  ]
+                }
+              }
+            },
+            {
+              "threshold": 0.8,
+              "model": {
+                "type": "minecraft:model",
+                "model": "plight:block/carrot_flowers",
+                "transformation": {
+                  "translation": [
+                    0.275,
+                    -1.0,
+                    0.275
+                  ],
+                  "scale": [
+                    0.45,
+                    0.9,
+                    0.45
+                  ],
+                  "left_rotation": [
+                    0,
+                    0,
+                    0,
+                    1
+                  ],
+                  "right_rotation": [
+                    0,
+                    0,
+                    0,
+                    1
+                  ]
+                }
+              }
+            },
+            {
+              "threshold": 0.6,
+              "model": {
+                "type": "minecraft:model",
+                "model": "plight:block/carrot_flowers",
+                "transformation": {
+                  "translation": [
+                    0.3,
+                    -0.95,
+                    0.3
+                  ],
+                  "scale": [
+                    0.4,
+                    0.8,
+                    0.4
+                  ],
+                  "left_rotation": [
+                    0,
+                    0,
+                    0,
+                    1
+                  ],
+                  "right_rotation": [
+                    0,
+                    0,
+                    0,
+                    1
+                  ]
+                }
+              }
+            },
+            {
+              "threshold": 0.3999999999999999,
+              "model": {
+                "type": "minecraft:model",
+                "model": "plight:block/carrot_flowers",
+                "transformation": {
+                  "translation": [
+                    0.35,
+                    -0.85,
+                    0.35
+                  ],
+                  "scale": [
+                    0.3,
+                    0.6,
+                    0.3
+                  ],
+                  "left_rotation": [
+                    0,
+                    0,
+                    0,
+                    1
+                  ],
+                  "right_rotation": [
+                    0,
+                    0,
+                    0,
+                    1
+                  ]
+                }
+              }
+            },
+            {
+              "threshold": 0.19999999999999996,
+              "model": {
+                "type": "minecraft:model",
+                "model": "plight:block/carrot_flowers",
+                "transformation": {
+                  "translation": [
+                    0.4,
+                    -0.9,
+                    0.4
+                  ],
+                  "scale": [
+                    0.2,
+                    0.4,
+                    0.2
+                  ],
+                  "left_rotation": [
+                    0,
+                    0,
+                    0,
+                    1
+                  ],
+                  "right_rotation": [
+                    0,
+                    0,
+                    0,
+                    1
+                  ]
+                }
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:empty"
+          }
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      }
+    ],
+    "transformation": {
+      "translation": [
+        0,
+        1.5,
+        0
+      ],
+      "left_rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "right_rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

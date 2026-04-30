@@ -1,0 +1,67 @@
+{
+    "model": {
+        "type": "minecraft:composite",
+        "models": [
+            {
+                "type": "minecraft:range_dispatch",
+                "property": "minecraft:custom_model_data",
+                "index": 0,
+                "scale": 1,
+                "entries": [
+                    {
+                        "threshold": 5,
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "minecraft:block/dead_brain_coral"
+                        }
+                    },
+                    {
+                        "threshold": 4,
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "minecraft:block/carrots_stage3"
+                        }
+                    },
+                    {
+                        "threshold": 3,
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "minecraft:block/carrots_stage2"
+                        }
+                    },
+                    {
+                        "threshold": 2,
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "minecraft:block/carrots_stage1"
+                        }
+                    },
+                    {
+                        "threshold": 1,
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "minecraft:block/carrots_stage0"
+                        }
+                    }
+                ],
+                "fallback": {
+                    "type": "minecraft:empty",
+                    "model": ""
+                }
+            },
+            {
+                "type": "minecraft:condition",
+                "property": "minecraft:custom_model_data",
+                "index": 1,
+                "on_true": {
+                    "type": "minecraft:model",
+                    "model": "plight:block/carrot_flowers"
+                },
+                "on_false": {
+                    "type": "minecraft:empty",
+                    "model": ""
+                }
+            }
+        ]
+    }
+}
